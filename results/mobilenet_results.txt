@@ -1,0 +1,6 @@
+MobileNetV2 Transfer Learning Results
+=====================================
+Test Accuracy: 0.9167
+Precision: 1.0000
+Recall: 0.8333
+F1-score: 0.9091
